@@ -1,0 +1,26 @@
+[
+    {
+        "name": "首页",
+        "href": "#hero"
+    },
+    {
+        "name": "关于我们",
+        "href": "#about"
+    },
+    {
+        "name": "服务",
+        "href": "#services"
+    },
+    {
+        "name": "项目",
+        "href": "#portfolio"
+    },
+    {
+        "name": "团队",
+        "href": "#team"
+    },
+    {
+        "name": "联系我们",
+        "href": "#contact"
+    }
+]
