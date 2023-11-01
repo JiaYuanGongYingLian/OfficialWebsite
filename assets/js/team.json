@@ -1,0 +1,30 @@
+[
+    {
+        "name": "钱祥龙",
+        "href": "#hero",
+        "post": "创始人",
+        "motto": "教育是一辈子的事业！",
+        "avatar": "01"
+    },
+    {
+        "name": "杨治宏",
+        "href": "#about",
+        "post": "创始人",
+        "motto": "用心做教育",
+        "avatar": "02"
+    },
+    {
+        "name": "Sarah Jhonson",
+        "href": "#about",
+        "post": "Product Manager",
+        "motto": "Aut maiores voluptates amet et quis praesentium qui senda para",
+        "avatar": "2"
+    },
+    {
+        "name": "Amanda Jepson",
+        "href": "#about",
+        "post": "Accountant",
+        "motto": "Dolorum tempora officiis odit laborum officiis et et accusamus",
+        "avatar": "4"
+    }
+]

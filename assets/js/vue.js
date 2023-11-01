@@ -2,7 +2,7 @@
  * @Description: Description
  * @Author: Kerwin
  * @Date: 2023-10-24 16:32:22
- * @LastEditTime: 2023-10-26 15:50:39
+ * @LastEditTime: 2023-11-01 11:54:36
  * @LastEditors:  Please set LastEditors
  */
 
@@ -31,13 +31,19 @@ const loadJson = (name) => {
 createApp({
   setup() {
     const menuList = ref([]);
+    const teamList = ref([]);
+    const serviceList = ref([]);
     onBeforeMount(async () => {
       menuList.value = await loadJson("menu");
+      teamList.value = await loadJson("team");
+      serviceList.value = await loadJson("services");
     });
     return {
       config,
       menuList,
-      banner
+      banner,
+      teamList,
+      serviceList
     };
   },
 }).mount("#app");

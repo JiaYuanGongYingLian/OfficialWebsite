@@ -1,0 +1,34 @@
+[
+    {
+        "name": "巴蜀少年小演员",
+        "href": "#hero",
+        "post": "创始人",
+        "motto": "教育是一辈子的事业！",
+        "avatar": "01",
+        "icon": "bxl-dribbble"
+    },
+    {
+        "name": "视力防控",
+        "href": "#about",
+        "post": "创始人",
+        "motto": "用心做教育",
+        "avatar": "02",
+        "icon": "bx-file"
+    },
+    {
+        "name": "AI测学提分",
+        "href": "#about",
+        "post": "Product Manager",
+        "motto": "Aut maiores voluptates amet et quis praesentium qui senda para",
+        "avatar": "2",
+        "icon": "bx-tachometer"
+    },
+    {
+        "name": "学生手机规范使用",
+        "href": "#about",
+        "post": "Accountant",
+        "motto": "Dolorum tempora officiis odit laborum officiis et et accusamus",
+        "avatar": "4",
+        "icon": "bx-layer"
+    }
+]
