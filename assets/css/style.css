@@ -1790,6 +1790,21 @@ section {
 #footer .credits a {
   transition: 0.3s;
 }
+.topBtn.download {
+  font-size: 16px;
+  font-weight: bold;
+  width: 200px;
+  height: 50px;
+  line-height: 50px;
+  color: #37517e;
+  border-color: #37517e;
+  background: #fff;
+  margin-top: 50px;
+  border-radius: 30px;
+}
+.application {
+  color: #37517e;
+}
 
 @media (max-width: 768px) {
   #footer .footer-bottom {

@@ -12,6 +12,10 @@
         "href": "#services"
     },
     {
+        "name": "APP",
+        "href": "#application"
+    },
+    {
         "name": "团队",
         "href": "#team"
     },

@@ -2,19 +2,18 @@
  * @Description: Description
  * @Author: Kerwin
  * @Date: 2023-10-24 16:32:22
- * @LastEditTime: 2023-11-01 11:54:36
+ * @LastEditTime: 2023-11-22 09:45:27
  * @LastEditors:  Please set LastEditors
  */
 
 const { createApp, ref, onBeforeMount } = Vue;
-// import menuList from "./menu.js"
 
 const config = {
   siteName: "",
 };
 const banner = {
-  title: '智慧校园，家校共育，让天下没有难培育的孩子！',
-  desc: '成为一家以爱心、善心、感恩心为核心，以利国、利民、利他为根本，被社会认可，被大众信赖的事业平台。'
+  title: '让人人参与0元创业就业，轻松赚钱，共创共富！',
+  desc: '成为一家以爱心、善心、感恩心为核心，以利国、利民、利他为根本，被社会认可，被大众信赖的事业平台成为一家以爱心、善心、感恩心为核心，以利国、利民、利他为根本，被社会认可，被大众信赖的事业平台。'
 }
 const loadJson = (name) => {
   return new Promise((resolve, reject) => {
